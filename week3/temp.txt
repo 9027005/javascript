@@ -1,0 +1,2 @@
+<h1 id="txt">druk op de knop</h1>
+    <button id="rBtn">randomizer</button>
