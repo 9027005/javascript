@@ -1,6 +1,6 @@
 let product = document.getElementById("product")
 let budget = 100
-let prijs = prompt()
+let prijs = prompt("hoe duur?")
 let genoeg = document.getElementById('genoeg')
 
 if(budget > prijs) {
